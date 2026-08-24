@@ -1,16 +1,13 @@
-## Hi there 👋
+$ whoami
+- Estudante de Sistemas de Informação e Desenvolvedor
 
-<!--
-**EduardoGarutti/eduardoGarutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ stack
+- C, Java, C#, SQL, Python, JavaScript
 
-Here are some ideas to get you started:
+$ focus
+- Desenvolvimento Backend
+- Banco de Dados (MySQL, JDBC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ contact
+- [LinkedIn](https://linkedin.com/in/eduardo-garutti)
+- [Email](mailto:eduardo.vinicius.garutti@gmail.com)
