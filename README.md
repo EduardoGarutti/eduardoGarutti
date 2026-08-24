@@ -1,13 +1,18 @@
-$ whoami
-- Estudante de Sistemas de Informação e Desenvolvedor
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-$ stack
-- C, Java, C#, SQL, Python, JavaScript
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Olá%2C+Eduardo+Garutti">
+</a>
 
-$ focus
-- Desenvolvimento Backend
-- Banco de Dados (MySQL, JDBC)
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,eclipse,java,spring,js,cs,dotnet,html,css,unity)](https://skillicons.dev)
 
-$ contact
-- [LinkedIn](https://linkedin.com/in/eduardo-garutti)
-- [Email](mailto:eduardo.vinicius.garutti@gmail.com)
+### Contatos
+<div>
+    <a href="https://www.linkedin.com/in/eduardo-garutti/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
