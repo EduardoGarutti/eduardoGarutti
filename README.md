@@ -17,4 +17,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
-## Creditos a Daria stanilevici https://github.com/daria-stanilevici/daria-stanilevici
+<!-- Creditos a Daria stanilevici https://github.com/daria-stanilevici/daria-stanilevici -->
